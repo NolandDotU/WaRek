@@ -1,4 +1,3 @@
-ear
 # 🏪 WaRek - Warung Keuangan AI
 
 **WaRek adalah aplikasi web yang membantu pemilik warung/UMKM di Indonesia track keuangan harian dan membuat keputusan finansial lebih baik dengan bantuan AI advisor dalam bahasa Indonesia.**
@@ -258,10 +257,9 @@ MIT
 
 ## 🎉 Credits
 
-Made for **JuaraVibeCoding Season 1** 🚀
+Made for **Everyone** 🚀
 
-**Team:** [Your Name]  
-**Duration:** 4 days  
+**Team:** CodeIn 
 **Status:** MVP Ready ✅
 
 ---
